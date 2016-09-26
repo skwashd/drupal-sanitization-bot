@@ -1,0 +1,6 @@
+config.json
+payload.txt
+__pycache__
+*.pyc
+bot/id_rsa
+bot/packages

@@ -1,0 +1,10 @@
+{
+	"ACQUIA_CLOUD_API_USER": "acquia-user-email",
+	"ACQUIA_CLOUD_API_TOKEN": "acquia-api-token",
+	"AWS_ACCESS_KEY_ID": "aws-id",
+	"AWS_SECRET_ACCESS_KEY": "aws-key",
+	"S3_BUCKET": "name-of-s3-bucket",
+	"SLACK_AUTH_TOKEN": "slack-token",
+	"SSH_KEY_FILE": "/path/to/ssh/private/key",
+	"SSH_PASSPHRASE": "passphrase-for-ssh-key"
+}
