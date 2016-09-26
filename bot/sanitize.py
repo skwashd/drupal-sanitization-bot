@@ -354,7 +354,7 @@ def main():
     msg = '{site}.{env} dump - {url}'.format(site=payload['site'],
                                              env=payload['env'],
                                              url=url)
-    slack.chat.post_message('@' + payload['user_name'], msg)
+    slack.chat.post_message(payload['user_id'], msg)
 
 
 if __name__ == '__main__':
